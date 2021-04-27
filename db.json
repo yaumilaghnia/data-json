@@ -4,5 +4,19 @@
         "nama": "yaumil",
         "usia": "23",
         "email": "yaumil@gmail.com"
-    }]
+    },
+    {
+        "id": 2,
+        "nama": "ziza",
+        "usia": "27",
+        "email": "ziza@gmail.com"
+    },
+    {
+        "id": 3,
+        "nama": "nabil",
+        "usia": "19",
+        "email": "nabil@gmail.com"
+    }
+
+]
 }

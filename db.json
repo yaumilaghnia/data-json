@@ -1,0 +1,10 @@
+{
+    "anggota" : [
+    {
+        "id":1,
+        "nama": "yaumil",
+        "usia": "23",
+        "email": "yaumil@gmail.com"
+    }
+    ]
+}
